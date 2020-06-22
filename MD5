@@ -1,0 +1,14 @@
+16a04201fbaf3d03106c3c0ab01da8d2 *DESCRIPTION
+4daaeea2da70a99a414a4a90b7b56853 *LICENSE
+178fb8b4428a621d0634acd26d71fe08 *NAMESPACE
+75f9b88ffeacda31d4f52412d3754525 *R/auxiliary.R
+e81854a454d75301f19919fc9f3f7343 *R/pdf_document.R
+fd002eda25a0d63840ff855b6eec4786 *R/pdfminer.R
+21d2855a28b4d8a1b6f5039b2dc6f052 *README.md
+b15621fdba7aeeddb25ad06b4e42f0f3 *inst/pdfs/cars.pdf
+0dcf782d2be3b5864904866157580318 *inst/python/is_pdfminer_installed.py
+d896ee3f7ef9af06c98dbd06fae303f6 *inst/python/rpdfmine.py
+0b6e78459c152c69839f14c3d17f9a3f *man/is_pdfminer_installed.Rd
+cde5604755caffa149321e54e3c1fa17 *man/layout_control.Rd
+44b2ac510b8e8e57c75860b390a70221 *man/read.pdf.Rd
+619314489547441e1a11fac89efdf2fb *tests/test.R
